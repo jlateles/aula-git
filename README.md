@@ -7,3 +7,5 @@
 ## modificação versão 4
 
 ## salvando alterações no Git: comando push e pull
+
+## comando git fetch 
